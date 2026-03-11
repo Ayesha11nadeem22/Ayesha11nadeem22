@@ -16,8 +16,9 @@
 
 ## Projects
 - Hotel Reservation System (DBMS)
-- Recursive Descent Parser
+- kids learning website 
 - Arduino Light Alarm System
+- kids learning mobile app
 
 ## Goals
 - Become a Software Developer
