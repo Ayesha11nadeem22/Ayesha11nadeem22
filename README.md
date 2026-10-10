@@ -64,6 +64,9 @@ Smart Payment Management System (WEB)
 Kids learning mobile app and web (MOBILE APP)
 Distributed ML Model Training Using Ray (PARALLEL & DISTRIBUTED)
 
+**Portfolio**
+https://ayesha11nadeem22.github.io/AyeshaNadeemPortfolio/
+
 
 ## Currently Learning
 
